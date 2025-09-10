@@ -38,6 +38,7 @@
 *.app
 
 parser_app
+*.py
 
 # debug information files
 *.dwo
